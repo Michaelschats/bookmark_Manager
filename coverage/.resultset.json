@@ -22,6 +22,19 @@
           null
         ]
       },
+      "/Users/michaelschats/Desktop/Projects/bookmark_manager/spec/features/adding_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/michaelschats/Desktop/Projects/bookmark_manager/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
@@ -42,6 +55,6 @@
         ]
       }
     },
-    "timestamp": 1605715857
+    "timestamp": 1605730911
   }
 }
